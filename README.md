@@ -73,4 +73,4 @@ in short: **you might get into my house - but you still come up short, and I'll 
 
  This is one of several home labs that I am creating to build Blue Team mastery from the ground up 
  
-Connect on [Linkeding](https://www.linkedin.com/in/robert-b-6221182a1/) or follow this repsository for more container and cloud defense projects.  
+Connect on [Linkedin](https://www.linkedin.com/in/robert-b-6221182a1/) or follow this repsository for more container and cloud defense projects.  
