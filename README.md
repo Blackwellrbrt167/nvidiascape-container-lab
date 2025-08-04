@@ -5,8 +5,11 @@ This lab simulates a container breakout using *CVE-2025-23266 (Nvidiascape)* and
 ## Lab Summary 
 
 **Platform:** Ubuntu (host), Docker, Pytorch container 
+
 **Type:** Home Lab | Container Security | Runtime Analysis | Blue Team 
+
 **Author:** Me 
+
 **Focus:** Memory-Based container escape, runtime defense, SIEM response 
 
 ## Objectives
