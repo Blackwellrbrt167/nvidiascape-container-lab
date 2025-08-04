@@ -12,9 +12,11 @@ Why privileged mode and host mounts matter
 
 The importance of limiting attacker capabilities - even if they get inside the container
 
+Blue Team Perspective: How can we protect an organization from a vulnerability like this. 
+
   ## Why This Matters 
 
-  Even if an attacker gets into a container, they may not get sensitive information.  This lab proves that **breach is possible - but damage can be prevented** with proper configuration 
+Even if an attacker gets into a container, they may not get sensitive information.  This lab proves that **breach is possible - but damage can be prevented** with proper configuration 
 
 This is one of many of my home labs to come and the focal point is to work towards mastery of Blue Team defense and real-world security.
 
