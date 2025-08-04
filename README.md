@@ -1,4 +1,4 @@
-# nvidiascape Vulnerability Lab (Memory-Based Container Escape) 
+# Nvidiascape Vulnerability Lab (Memory-Based Container Escape) 
 
 This lab simulates a container breakout using *CVE-2025-23266 (Nvidiascape)* and Pytorch.  It demonstrates how attaackers might interact with the host system **without immediately accessing sensitive data**, and how **proper hardening, runtime security tools, andhuman investigation** reduce the damage and improve defense.   
 
